@@ -1,2 +1,2 @@
-# -test-github
+# test-github
 Тестовый репозиторий для изучения git
